@@ -4,7 +4,6 @@
   "description": "timestamp microservice for FCC",
   "main": "server.js",
   "scripts": {
-    "test": " ",
     "start": "node server.js"
   },
   "keywords": [
