@@ -14,7 +14,7 @@
   "author": "Vincent Lee",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.1",
-    "moment": "^2.17.1"
+    "express": "^4.17.1",
+    "moment": "^2.27.0"
   }
 }
